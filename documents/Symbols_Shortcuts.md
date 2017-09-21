@@ -56,6 +56,14 @@ Command + Option + S
 Command + Shift + .
 ```
 
+### Show the Position of the Current Folder
+
+```
+Command + Option + P
+```
+
+This shortcut will let finder show the path to the current folder at the bottom of the finder.
+
 ### Instantly Put Multiple Files in a New Folder
 
 > 1、select the files with the `Command` key pressed
