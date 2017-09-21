@@ -1,0 +1,11 @@
+--2017-09-21 15:11:44--  https://www.gnu.org/licenses/gpl-3.0.txt
+Resolving www.gnu.org... 208.118.235.148, 2001:4830:134:3::a
+Connecting to www.gnu.org|208.118.235.148|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 35147 (34K) [text/plain]
+Saving to: ‘gpl-3.0.txt’
+
+     0K .......... .......... .......... ....                 100% 84.3K=0.4s
+
+2017-09-21 15:11:46 (84.3 KB/s) - ‘gpl-3.0.txt’ saved [35147/35147]
+
