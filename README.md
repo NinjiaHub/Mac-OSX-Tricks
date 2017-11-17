@@ -12,4 +12,6 @@ Mac OS 相关的总结、小技巧。
 
 ## Author Info
 
-Email: web.taox@gmail.com
+[GitHub](https://github.com/Tao-Quixote)
+
+Email: <web.taox@gmail.com>
