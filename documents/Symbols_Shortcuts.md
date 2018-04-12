@@ -80,6 +80,37 @@ This shortcut will let finder show the path to the current folder at the bottom 
 > 
 > 4、Command+Option+L: Downloads folder
 
+## Shortcuts in Text Editor
+
+### revoke
+
+> Command + z
+
+### re-revoke
+
+> Command + Shift + Z
+
+### jump to the previous word
+
+> Option + ←
+
+### jump to the next word
+
+> Option + →
+
+### close tab
+
+> Command + w
+
+### reopen the tab
+
+> Command + Shift + T
+
+### switch to the left tab
+> Command + Shift + [
+
+### switch to the right tab
+> Command + Shift + ]
 
 ## Notice
 
