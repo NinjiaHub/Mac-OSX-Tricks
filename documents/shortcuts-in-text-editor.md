@@ -27,10 +27,20 @@
 > Command + Shift + T
 
 ### switch to the left tab
+
 > Command + Shift + [
 
 ### switch to the right tab
+
 > Command + Shift + ]
+
+### Jump to the begin of the line
+
+> Command + ←
+
+### Jump to the end of the line
+
+> Command + →
 
 ## Notice
 
