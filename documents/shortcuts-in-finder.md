@@ -64,9 +64,15 @@ This shortcut will let finder show the path to the current folder at the bottom 
 > 
 > 4、Command+Option+L: Downloads folder
 
+### Rename a file/folder
+
+> 1、select the file
+> 
+> 2、press the `Enter` button
+
 ## Notice
 
-The `Shortcuts` part referred to [16 Finder Shortcuts Every Mac User Should Know](https://www.howtogeek.com/325983/16-finder-shortcuts-every-mac-user-should-know/)
+The `Shortcuts` part referred to [16 Finder Shortcuts Every Mac User Should Know](https://www.howtogeek.com/325983/16-finder-shortcuts-every-mac-user-should-know/).
 
 ## Author 🐍
 
