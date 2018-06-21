@@ -4,7 +4,8 @@
 
 * [Symbols - Mac 中符号与对应按键的映射](./documents/symbols.md)
 * [Shortcuts in Finder](./documents/shortcuts-in-finder.md)
-* [Shortcust in Text Editor](./documents/shortcuts-in-text-editor.md)
+* [Shortcuts in Text Editor](./documents/shortcuts-in-text-editor.md)
+* [Shortcuts in System](./documents/shortcuts-in-system.md)
 
 ## Tips
 
